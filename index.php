@@ -1,17 +1,20 @@
-<HTML>
-<TITLE></TITLE>
+<html>
+<title>Py IoT 2018</title>
 <BODY>
-<DIV>
+<div>
+	<h4>IoT Lighting Control</h4>
+</div>
+<div>
 <form method="post">
-            <h4 class="card-title">lighting</h4>
-            <h5 class="card-subtitle">Device status: <strong>OFF</strong></h5>
-            <p class="card-text">Switch Lights On/Off using the switches bellow.</p>
-            <div class="card-btn"><a  name="LightON" class="btn btn-warning">ON</a></div>
-						<div class="card-btn"><a  name="LightOFF" class="btn btn-danger">OFF</a></div>
-            </div>
+	
+            <h4>lighting</h4>
+            <h5>Device status: <strong>OFF</strong></h5>
+            <p >Switch Lights On/Off using the switches bellow.</p>
+            <div><a  name="LightON" >ON</a></div>
+            <div><a  name="LightOFF">OFF</a></div>
                 
 </form>
 
-</DIV>
-</BODY>
-</HTML>
+</div>
+</body>
+</html>
