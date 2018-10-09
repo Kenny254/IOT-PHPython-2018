@@ -5,7 +5,7 @@
 	<h4>IoT Lighting Control</h4>
 </div>
 <div>
-<form method="post">
+<form action="/server/router.php" method="post">
 	
             <h4>lighting</h4>
             <h5>Device status: <strong>OFF</strong></h5>
